@@ -1,0 +1,162 @@
+[
+  {
+    "id": "G01",
+    "title": "Chùa Hội Khánh",
+    "text": "Chùa Hội Khánh là ngôi chùa cổ ở khu vực Thủ Dầu Một, được xây dựng năm 1741. Những điểm nổi bật của chùa gồm nội thất gỗ chạm khắc và tượng Phật nằm. Đây là địa điểm tìm hiểu kiến trúc và văn hóa Phật giáo.",
+    "source": "https://hello.hochiminhcity.gov.vn/vi/discover/chua-hoi-khanh",
+    "category": "temple",
+    "tags": ["Phật giáo", "kiến trúc", "tượng Phật nằm", "lịch sử"]
+  },
+  {
+    "id": "G02",
+    "title": "Chùa Bà Thiên Hậu",
+    "text": "Chùa Bà Thiên Hậu, còn gọi là Thiên Hậu Cung, nằm tại số 4 đường Nguyễn Du ở trung tâm Thủ Dầu Một. Chùa thờ Thiên Hậu Thánh Mẫu và gắn với văn hóa cộng đồng người Hoa. Lễ hội rước kiệu Bà diễn ra vào rằm tháng Giêng âm lịch.",
+    "source": "https://dulichbinhduong.org.vn/du-lich/5-diem-den-khong-the-bo-qua-khi-du-lich-binh-duong/ct",
+    "category": "temple",
+    "tags": ["Thiên Hậu", "người Hoa", "lễ hội", "rằm tháng Giêng"]
+  },
+  {
+    "id": "G03",
+    "title": "Chùa Tây Tạng",
+    "text": "Chùa Tây Tạng nằm tại số 46B đường Thích Quảng Đức, khu vực Thủ Dầu Một. Chùa có kiến trúc mang dấu ấn Mật tông Tây Tạng. Một hiện vật đặc trưng là tượng Đạt Ma Sư Tổ được làm bằng tóc.",
+    "source": "https://dulichbinhduong.org.vn/du-lich/kham-pha-tour-hanh-huong-binh-duong-nhung-diem-den-khong-the-bo-qua/ct",
+    "category": "temple",
+    "tags": ["Phật giáo", "Mật tông", "Đạt Ma", "tượng bằng tóc"]
+  },
+  {
+    "id": "G04",
+    "title": "Chùa Ông Ngựa - Thanh An Tự",
+    "text": "Chùa Ông Ngựa còn được gọi là Thanh An Tự hoặc Quan Đế Miếu, nằm tại số 20 đường Hùng Vương ở Thủ Dầu Một. Chùa thờ Quan Vũ và có tượng ngựa Xích Thố. Các tên gọi này chỉ cùng một địa điểm.",
+    "source": "https://dulichbinhduong.org.vn/du-lich/kham-pha-tour-hanh-huong-binh-duong-nhung-diem-den-khong-the-bo-qua/ct",
+    "category": "temple",
+    "tags": ["Quan Vũ", "Thanh An Tự", "Quan Đế Miếu", "Xích Thố"]
+  },
+  {
+    "id": "G05",
+    "title": "Chùa Hội An",
+    "text": "Chùa Hội An nằm ở khu vực đường Phó Cơ Điều, Hòa Phú, thuộc địa bàn TP. Thủ Dầu Một trước năm 2025. Đây là công trình tôn giáo mang diện mạo hiện đại trong khu vực Thành phố mới Bình Dương. Chùa Hội An và chùa Hội Khánh là hai địa điểm khác nhau.",
+    "source": "https://dulichbinhduong.org.vn/du-lich/kham-pha-tour-hanh-huong-binh-duong-nhung-diem-den-khong-the-bo-qua/ct",
+    "category": "temple",
+    "tags": ["Phật giáo", "Hòa Phú", "thành phố mới", "kiến trúc hiện đại"]
+  },
+  {
+    "id": "G06",
+    "title": "Chùa Thuận Thiên",
+    "text": "Chùa Thuận Thiên là địa điểm tín ngưỡng ở khu vực Thủ Dầu Một. Chùa có thờ Bà Chúa Thai Sanh, gắn với tín ngưỡng cầu sự che chở cho phụ nữ trong việc sinh nở. Đây là nét riêng được cổng thông tin du lịch địa phương giới thiệu về chùa.",
+    "source": "https://dulich.binhduong.gov.vn/en/tourdetail/?tourid=4264",
+    "category": "temple",
+    "tags": ["tín ngưỡng", "Bà Chúa Thai Sanh", "văn hóa", "tâm linh"]
+  },
+  {
+    "id": "G07",
+    "title": "Nhà thờ Chánh tòa Phú Cường",
+    "text": "Nhà thờ Chánh tòa Phú Cường nằm tại khu vực ngã sáu trung tâm Thủ Dầu Một. Công trình nổi bật với mái vòm, các ô cửa trang trí và tranh kể về cuộc đời Chúa Jesus. Nhà thờ là một địa điểm tìm hiểu kiến trúc tôn giáo và văn hóa Công giáo.",
+    "source": "https://dulichbinhduong.org.vn/du-lich/binh-duong-voi-cac-cong-trinh-ton-giao-noi-tieng-mang-gia-tri-van-hoa-lich-su/ct",
+    "category": "church",
+    "tags": ["Công giáo", "kiến trúc", "ngã sáu", "Phú Cường"]
+  },
+  {
+    "id": "G08",
+    "title": "Nhà tù Phú Lợi",
+    "text": "Nhà tù Phú Lợi là di tích ở khu vực Phú Lợi, Thủ Dầu Một. Di tích được xếp hạng cấp quốc gia ngày 10 tháng 7 năm 1980.",
+    "source": "https://dulichbinhduong.org.vn/du-lich/danh-muc-di-tich-quoc-gia-va-cap-tinh-tren-dia-ban-tinh-binh-duong/ct",
+    "category": "historical_site",
+    "tags": ["nhà tù", "lịch sử", "di tích quốc gia", "Phú Lợi"]
+  },
+  {
+    "id": "G09",
+    "title": "Bảo tàng Bình Dương",
+    "text": "Bảo tàng Bình Dương nằm tại số 565 Đại lộ Bình Dương, khu vực Thủ Dầu Một. Bảo tàng lưu giữ và trưng bày tư liệu, hiện vật về lịch sử, văn hóa và đời sống địa phương, phục vụ việc tham quan, học tập và nghiên cứu.",
+    "source": "https://thnguyentrai.tptdm.edu.vn/Tieu-bieu/hoc-sinh-trai-nghiem-tai-khu-di-tich-nha-tu-phu-loi-va-nha-bao-tang-binh-duong-1277.html",
+    "category": "museum",
+    "tags": ["bảo tàng", "hiện vật", "lịch sử", "giáo dục"]
+  },
+  {
+    "id": "G10",
+    "title": "Nhà cổ Trần Văn Hổ",
+    "text": "Nhà cổ Trần Văn Hổ nằm tại số 18 đường Bạch Đằng ở Thủ Dầu Một. Ngôi nhà được khởi dựng năm 1890 và hoàn thành năm 1893. Công trình sử dụng nhiều loại gỗ quý và nổi bật ở nghệ thuật kiến trúc, trang trí nội thất.",
+    "source": "https://dulichbinhduong.org.vn/du-lich/gia-tri-ngoi-nha-co/ct",
+    "category": "historic_house",
+    "tags": ["nhà cổ", "kiến trúc gỗ", "Bạch Đằng", "Trần Văn Hổ"]
+  },
+  {
+    "id": "G11",
+    "title": "Nhà cổ Trần Công Vàng",
+    "text": "Nhà cổ Trần Công Vàng thuộc khu vực Phú Cường, Thủ Dầu Một. Công trình được xếp hạng di tích quốc gia ngày 7 tháng 1 năm 1993.",
+    "source": "https://dulichbinhduong.org.vn/du-lich/danh-muc-di-tich-quoc-gia-va-cap-tinh-tren-dia-ban-tinh-binh-duong/ct",
+    "category": "historic_house",
+    "tags": ["nhà cổ", "di tích quốc gia", "Phú Cường", "Trần Công Vàng"]
+  },
+  {
+    "id": "G12",
+    "title": "Nhà cổ Nguyễn Tri Quang",
+    "text": "Nhà cổ Nguyễn Tri Quang thuộc khu vực Tân An, Thủ Dầu Một. Công trình được xếp hạng di tích cấp tỉnh ngày 2 tháng 6 năm 2004.",
+    "source": "https://dulichbinhduong.org.vn/du-lich/danh-muc-di-tich-quoc-gia-va-cap-tinh-tren-dia-ban-tinh-binh-duong/ct",
+    "category": "historic_house",
+    "tags": ["nhà cổ", "di tích cấp tỉnh", "Tân An", "Nguyễn Tri Quang"]
+  },
+  {
+    "id": "G13",
+    "title": "Đình Tân An - đình Bến Thế",
+    "text": "Đình Tân An còn được gọi là đình Bến Thế, thuộc khu vực Tân An, Thủ Dầu Một. Đình được xếp hạng di tích quốc gia ngày 26 tháng 4 năm 2014.",
+    "source": "https://dulichbinhduong.org.vn/du-lich/danh-muc-di-tich-quoc-gia-va-cap-tinh-tren-dia-ban-tinh-binh-duong/ct",
+    "category": "communal_house",
+    "tags": ["đình làng", "Bến Thế", "Tân An", "di tích quốc gia"]
+  },
+  {
+    "id": "G14",
+    "title": "Đình Phú Cường - đình Bà Lụa",
+    "text": "Đình Phú Cường còn gọi là đình Bà Lụa, nằm ở khu vực Phú Thọ của TP. Thủ Dầu Một trước năm 2025. Đình thờ Thành Hoàng thôn Phú Cường và được xếp hạng di tích cấp tỉnh năm 2004. Đây là đình làng, khác với nhà thờ Chánh tòa Phú Cường.",
+    "source": "https://storage-vnportal.vnpt.vn/bdg-chinhquyen/4890/File/Danh_muc_di_tich_quoc_gia_va_tinh.pdf",
+    "category": "communal_house",
+    "tags": ["đình làng", "Bà Lụa", "Thành Hoàng", "Phú Thọ"]
+  },
+  {
+    "id": "G15",
+    "title": "Đình Tương Bình Hiệp",
+    "text": "Đình Tương Bình Hiệp thuộc khu vực Tương Bình Hiệp, Thủ Dầu Một. Đình được xếp hạng di tích cấp tỉnh ngày 19 tháng 11 năm 2007.",
+    "source": "https://dulichbinhduong.org.vn/du-lich/danh-muc-di-tich-quoc-gia-va-cap-tinh-tren-dia-ban-tinh-binh-duong/ct",
+    "category": "communal_house",
+    "tags": ["đình làng", "Tương Bình Hiệp", "di tích cấp tỉnh", "văn hóa"]
+  },
+  {
+    "id": "G16",
+    "title": "Lò lu Đại Hưng",
+    "text": "Lò lu Đại Hưng nằm ở khu vực Tương Bình Hiệp, Thủ Dầu Một. Đây là cơ sở gắn với nghề làm lu gốm truyền thống, được đưa vào hành trình tìm hiểu di tích địa phương cùng Nhà tù Phú Lợi, Bảo tàng Bình Dương và chùa Hội Khánh.",
+    "source": "https://dulichbinhduong.org.vn/du-lich/so-vhttdl-binh-duong-to-chuc-tuyen-truyen-ve-gia-tri-lich-su-van-hoa-cach-mang-cac-di-tich-va-danh-lam-thang-canh-cho-doan-vien-thanh-nien/ct",
+    "category": "craft_site",
+    "tags": ["gốm", "lu", "nghề truyền thống", "Đại Hưng"]
+  },
+  {
+    "id": "G17",
+    "title": "Làng sơn mài Tương Bình Hiệp",
+    "text": "Làng sơn mài Tương Bình Hiệp thuộc khu vực Thủ Dầu Một, gắn với nghề chế tác sản phẩm sơn mài qua nhiều thế hệ. Nghề sơn mài tại đây được đưa vào danh mục di sản văn hóa phi vật thể quốc gia năm 2016. Sản phẩm nổi bật ở chất lượng và sự tinh xảo.",
+    "source": "https://bvhttdl.gov.vn/Pages/chi-tiet.aspx?url=%2Fnghe-son-mai-o-tuong-binh-hiep-duoc-cong-nhan-la-di-san-van-hoa-phi-vat-the-quoc-gia-7584.htm",
+    "category": "craft_village",
+    "tags": ["sơn mài", "làng nghề", "thủ công", "di sản phi vật thể"]
+  },
+  {
+    "id": "G18",
+    "title": "Chợ Thủ Dầu Một",
+    "text": "Chợ Thủ Dầu Một còn được gọi là chợ Thủ, có nguồn gốc từ chợ Phú Cường bên sông Sài Gòn. Chợ gắn với hoạt động trao đổi hàng hóa và đời sống của cư dân địa phương. Đây là nơi tìm hiểu văn hóa chợ và lịch sử thương mại của vùng đất Thủ.",
+    "source": "https://chothudaumot.com.vn/",
+    "category": "market",
+    "tags": ["chợ", "mua sắm", "đời sống địa phương", "chợ Thủ"]
+  },
+  {
+    "id": "G19",
+    "title": "Phố đi bộ Bạch Đằng",
+    "text": "Phố đi bộ Bạch Đằng là không gian sinh hoạt cộng đồng tại Thủ Dầu Một. Nơi đây từng tổ chức các chương trình vui chơi, trải nghiệm và hoạt động thanh thiếu nhi do Thành đoàn triển khai. Guide chưa có lịch sự kiện hoặc lịch hoạt động hiện tại của phố đi bộ.",
+    "source": "https://thuvienbinhduong.org.vn/?ArticleId=58abed54-7393-4995-87a0-b635bc9a8273",
+    "category": "walking_street",
+    "tags": ["đi bộ", "sinh hoạt cộng đồng", "Bạch Đằng", "vui chơi"]
+  },
+  {
+    "id": "G20",
+    "title": "Công viên Thành phố mới Bình Dương",
+    "text": "Công viên Thành phố mới Bình Dương nằm trong khu Thành phố mới, thuộc phạm vi TP. Thủ Dầu Một trước năm 2025. Công viên có không gian cây xanh và cảnh quan phục vụ hoạt động thư giãn, vui chơi và dã ngoại. Guide chưa có giờ mở cửa hoặc lịch hoạt động nhạc nước được xác minh.",
+    "source": "https://dulich.binhduong.gov.vn/en/congvientpm",
+    "category": "park",
+    "tags": ["công viên", "cây xanh", "dã ngoại", "thành phố mới"]
+  }
+]
